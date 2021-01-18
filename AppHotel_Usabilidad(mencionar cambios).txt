@@ -1,0 +1,4 @@
+- El usuario no puede personalizar la interfaz. Ni el fondo de pantalla.
+- pueden ocurrir errores inesperados?
+- No hay reversibilidad.
+- La ubicacion de elementos en el formulario?? podria ser mejor??
